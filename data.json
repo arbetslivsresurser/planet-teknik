@@ -677,5 +677,75 @@
 "title": "Study: ”Mommy, do you love your phone more than me?”",
 "summary": "Abstract While there is robust literature on the negative impact of adolescent device use on physical and psychological health, there is less research on the use of technology in the presence of others and its implications for key relationships. Known as “technoference” and “phubbing,” these device-based behaviors have only recently been examined in parent-child contexts. […]",
 "published_at": "2026-07-10 00:20:00"
+},
+{
+"link": "https://www.recentic.net/apples-new-speechanalyzer-api-benchmarked-against-whisper-and-its-predecessor/",
+"domain": "recentic.net",
+"title": "Apple’s new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+"summary": "The result, up front Apple’s new SpeechAnalyzer is the most accurate on-device speech engine we tested. It beat every Whisper model we ship, including Whisper Small, on both the clean and the noisy half of LibriSpeech, while running roughly three times faster than Small. And the API it replaces, SFSpeechRecognizer, came last on clean speech: […]",
+"published_at": "2026-07-13 16:06:00"
+},
+{
+"link": "https://www.recentic.net/doge-is-done-what-happened-to-its-records/",
+"domain": "recentic.net",
+"title": "DOGE is done. What happened to its records?",
+"summary": "The Department of Government Efficiency, which carried out the most transformative restructuring of the federal government in a generation, has formally ended — with  no public accounting of its actions. Despite touting itself as the most transparent administration in history, the Trump White House is working to ensure that no DOGE records ever see the […]",
+"published_at": "2026-07-13 15:56:00"
+},
+{
+"link": "https://www.recentic.net/lapd-lets-contract-with-surveillance-giant-flock-expire/",
+"domain": "recentic.net",
+"title": "LAPD lets contract with surveillance giant Flock expire",
+"summary": "The Los Angeles Police Department (LAPD) is reportedly ending its deal with Flock Safety, a surveillance company that helps law enforcement track vehicles using thousands of its license plate cameras placed across the United States. A senior LAPD official told news outlets, first reported by ABC7 and the Los Angeles Times, that the police department […]",
+"published_at": "2026-07-13 15:11:00"
+},
+{
+"link": "https://www.recentic.net/the-art-and-engineering-of-sega-cd-silpheed/",
+"domain": "recentic.net",
+"title": "The art and engineering of Sega CD Silpheed",
+"summary": "The art and engineering of Sega CD Silpheed June 1, 2026 The art and engineering of Sega CD Silpheed The 90’s was a decade of considerable improvement in the world of video-game consoles[1]. Each new model brought advanced processing power and better graphics without compromise. The mid-90s emergence of CD-ROM drives however was an oddity. […]",
+"published_at": "2026-07-13 14:52:00"
+},
+{
+"link": "https://www.recentic.net/precursor/",
+"domain": "recentic.net",
+"title": "Precursor",
+"summary": "Bot mitigation is an adversarial game: attackers adapt, defenders respond, and the cycle continues. At Cloudflare, we stay ahead by combining visibility across our global network with signals from the client-side environment. At the network level, we analyze over 1 trillion requests per day to understand reputation, patterns, and anomalies across more than 20% of […]",
+"published_at": "2026-07-13 14:39:00"
+},
+{
+"link": "https://www.recentic.net/show-hn-clawk-give-coding-agents-a-disposable-linux-vm-not-your-laptop/",
+"domain": "recentic.net",
+"title": "Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop",
+"summary": "A coding agent is only useful when you let it actually do things: install packages, run the code it writes, start servers, use the network. On your own machine that leaves two bad options. You approve every command (and babysit a prompt every few seconds), or you run --dangerously-skip-permissions and hope nothing important is one […]",
+"published_at": "2026-07-13 14:02:00"
+},
+{
+"link": "https://www.recentic.net/a-right-too-expensive-to-exercise-isnt-a-right/",
+"domain": "recentic.net",
+"title": "A Right Too Expensive to Exercise Isn’t a Right",
+"summary": "James Otis Arguing the Writs of Assistance in the Old Towne House, mural by Robert Reid, 1901. Courtesy of the Commonwealth of Massachusetts, State House Art Commission. The pincer Can we still run the software we choose on hardware we own? That’s no longer just an architecture question; it’s a political one. Frontier labs now […]",
+"published_at": "2026-07-13 13:08:00"
+},
+{
+"link": "https://www.recentic.net/leak-of-san-francisco-police-drone-footage-exposes-reality-of-urban-surveillance/",
+"domain": "recentic.net",
+"title": "Leak of San Francisco Police Drone Footage Exposes Reality of Urban Surveillance",
+"summary": "Just after noon on a Saturday last month, a Skydio X10 quadcopter hovered about 200 feet over a San Francisco apartment complex, watching police chase a man hiding behind a parked car. The target of this manhunt lay down on the pavement, apparently unaware that he remained in full view of the flying eye overhead. […]",
+"published_at": "2026-07-13 12:09:00"
+},
+{
+"link": "https://www.recentic.net/show-hn-dom-docx-html-to-native-editable-word-docs-mit/",
+"domain": "recentic.net",
+"title": "Show HN: DOM-docx – HTML to native, editable Word docs (MIT)",
+"summary": "Convert semantic HTML fragments to native, editable Word documents (OOXML): paragraphs, runs, lists, tables, images. Not screenshots or layout hacks. Live demo: dom-docx.com. Try the converter, browse showcases, read the learn guide. Built with a visual regression loop: render HTML in Chromium, convert to docx, rasterize via LibreOffice, score layout + structural fidelity against a […]",
+"published_at": "2026-07-13 11:51:00"
+},
+{
+"link": "https://www.recentic.net/an-infuriating-goodbye-to-photoshop/",
+"domain": "recentic.net",
+"title": "An Infuriating Goodbye to Photoshop",
+"summary": "July 12, 2026 I’ve been using Photoshop since the mid-90s. First at school, with Photoshop 3, then through work. I bought my first boxed copy of CS2 in 2005, then upgraded to CS5 in 2010. I subscribed to Photoshop Creative Cloud on day one. Today, I uninstalled it. I hope I never have to use […]",
+"published_at": "2026-07-13 11:46:00"
 }
 ]
