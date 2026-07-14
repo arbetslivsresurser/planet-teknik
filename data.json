@@ -747,5 +747,75 @@
 "title": "An Infuriating Goodbye to Photoshop",
 "summary": "July 12, 2026 I’ve been using Photoshop since the mid-90s. First at school, with Photoshop 3, then through work. I bought my first boxed copy of CS2 in 2005, then upgraded to CS5 in 2010. I subscribed to Photoshop Creative Cloud on day one. Today, I uninstalled it. I hope I never have to use […]",
 "published_at": "2026-07-13 11:46:00"
+},
+{
+"link": "https://www.recentic.net/salespatriot-yc-w25-is-hiring-full-stack-engineers-sf/",
+"domain": "recentic.net",
+"title": "SalesPatriot (YC W25) Is Hiring Full Stack Engineers (SF)",
+"summary": "You need to enable JavaScript to run this app.",
+"published_at": "2026-07-13 21:01:00"
+},
+{
+"link": "https://www.recentic.net/show-hn-youtube-guitar-tab-parser/",
+"domain": "recentic.net",
+"title": "Show HN: YouTube Guitar Tab Parser",
+"summary": "CLI that turns a YouTube guitar-lesson video into a PDF of the guitar tab. It downloads the video, samples frames, uses Claude vision to locate the tab region, crops every frame to that region, de-duplicates the crops by the bar number printed on each line of the score, and stitches the distinct tab lines vertically […]",
+"published_at": "2026-07-13 20:13:00"
+},
+{
+"link": "https://www.recentic.net/linux-0-11-rewritten-in-idiomatic-rust-boots-in-qemu/",
+"domain": "recentic.net",
+"title": "Linux 0.11 rewritten in idiomatic Rust, boots in QEMU",
+"summary": "A modern Rust rewrite of the Linux 0.11 kernel — boots on i386 in QEMU, runs a self-hosted Unix-style userland. $ cd kernel && make run … Welcome to linux-0.11-rs. https://github.com/Poseidon-fan/linux-0.11-rs (login: 0 @ linux-rs :: Wed May 27 09:35:43 UTC 2026) [root@linux-rs /root]# ls /bin | wc -l 69 linux-0.11-rs rebuilds the 1991 Linux […]",
+"published_at": "2026-07-13 20:11:00"
+},
+{
+"link": "https://www.recentic.net/climate-gov-was-destroyed-open-data-saved-it/",
+"domain": "recentic.net",
+"title": "Climate.gov was destroyed. Open data saved it",
+"summary": "Democracy ”After losing their jobs at NOAA, Rebecca Lindsey, her sister and another colleague teamed up to rebuild a pivotal resource the Trump administration took offline.” Link: Trump dismantled a federal climate website. These women rebuilt it., by Jenae Barnes at The 19th This shouldn’t have been necessary, but is still wonderful to see. Climate.gov […]",
+"published_at": "2026-07-13 19:57:00"
+},
+{
+"link": "https://www.recentic.net/telegrams-t-me-domain-has-been-suspended/",
+"domain": "recentic.net",
+"title": "Telegram’s t.me domain has been suspended",
+"summary": "Raw Whois Data Domain Name: t.me Registry Domain ID: REDACTED Registrar WHOIS Server: whois.godaddy.com Registrar URL: http://www.godaddy.com/domains/search.aspx?ci=8990 Updated Date: 2026-07-13T19:24:55Z Creation Date: 2010-05-20T18:50:32Z Registry Expiry Date: 2035-05-20T18:50:32Z Registrar: GoDaddy.com, LLC Registrar IANA ID: 146 Registrar Abuse Contact Email: @godaddy.com Registrar Abuse Contact Phone: +1.4806242505 Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProh",
+"published_at": "2026-07-13 19:52:00"
+},
+{
+"link": "https://www.recentic.net/the-real-prices-of-frontier-models-tokens-price-right/",
+"domain": "recentic.net",
+"title": "The real prices of frontier models. Tokens * Price, right?",
+"summary": "Every model’s pricing page shows one number you are meant to compare: dollars per million tokens. Put two side by side and one looks cheaper. That comparison is broken – and if you build with an AI coding agent, it is broken in the most expensive direction. The price is per token, but a ”token” […]",
+"published_at": "2026-07-13 18:32:00"
+},
+{
+"link": "https://www.recentic.net/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
+"domain": "recentic.net",
+"title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode",
+"summary": "Saturday, 11 Jul 2026 Lately, I’ve heard several Apple related podcasters talk about how bad Xcode is, and how Apple needs to make vibe-coding Mac and iOS apps better by making Xcode less inscrutable. They’re not wrong, but also I don’t understand why they’re even opening Xcode in the first place. With a little bit […]",
+"published_at": "2026-07-13 18:22:00"
+},
+{
+"link": "https://www.recentic.net/linux-on-the-sega-32x-who-needs-hardware-synchronization-primitives-anyway/",
+"domain": "recentic.net",
+"title": "Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?",
+"summary": "Preface I couldn’t start this entry in any other way possible but by thanking everyone who enjoyed the Linux on Jaguar post. Also special props to the linuxmd project again. It was a very fun experience and we’ve even made it into a few news outlets: or I also posted it on Hacker News and […]",
+"published_at": "2026-07-13 18:18:00"
+},
+{
+"link": "https://www.recentic.net/xais-grok-build-cli-uploads-git-repositories-to-a-google-cloud-bucket/",
+"domain": "recentic.net",
+"title": "xAI’s Grok Build CLI Uploads Git Repositories to a Google Cloud Bucket",
+"summary": "xAI appears to have shut off the mechanism that let its Grok Build CLI upload complete developer repositories to company-controlled cloud storage, according to follow-up testing by the security researcher who exposed the behavior. The fix arrived as a hidden server-side flag, with no advisory, no statement, and no answer on what happens to code […]",
+"published_at": "2026-07-13 18:10:00"
+},
+{
+"link": "https://www.recentic.net/the-human-cost-of-doges-war-on-usaid/",
+"domain": "recentic.net",
+"title": "The Human Cost of DOGE’s War on USAID",
+"summary": "The New Yorker Interview The Human Cost of DOGE’s War on U.S.A.I.D. Illustration by Diego Mallo Save this storySave this story Save this storySave this story Listen and subscribe: Apple | Spotify | Wherever You Listen Sign up for our daily newsletter to get the best of The New Yorker in your inbox. In 1988, […]",
+"published_at": "2026-07-13 18:00:00"
 }
 ]
