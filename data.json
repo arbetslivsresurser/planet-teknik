@@ -131,5 +131,124 @@
 "title": "Djupeffekt och perspektivzoom: så får du iPhone-bakgrunden att kännas tredimensionell",
 "summary": "Sedan Apple ritade om låsskärmen har iPhone-bakgrunden blivit mer än en stillbild bakom klockan. Två funktioner avgör om motivet känns platt eller tredimensionellt: djupeffekten, som lägger en del av bilden framför tidsangivelsen, och perspektivzoomen, den äldre parallaxrörelsen som får bakgrunden att förskjutas när du lutar telefonen. Båda bygger på lager, men de fungerar på helt ... Läs mer",
 "published_at": "2026-07-16 14:46:32"
+},
+{
+"link": "https://www.conv.se/statistisk-signifikans/",
+"domain": "conv.se",
+"title": "Statistisk signifikans i A/B-tester: p-värde och urval",
+"summary": "Foto: Pixabay via Pexels Statistisk signifikans är det som skiljer ett verkligt resultat från en tillfällighet i ett A/B-test. Utan att förstå begreppet är det lätt att fira en vinst som egentligen bara var slump, eller att förkasta en förändring som faktiskt fungerade. Den här guiden förklarar signifikans, p-värde och urvalsstorlek utan onödig matematik. Vad ... Läs mer",
+"published_at": "2026-07-17 19:49:43"
+},
+{
+"link": "https://www.conv.se/kundresa/",
+"domain": "conv.se",
+"title": "Kundresan: kartlägg och optimera varje steg",
+"summary": "Foto: Skyler Ewing via Pexels Kundresan är den väg en person tar från att först höra talas om dig till att bli kund, och gärna återkommande kund. Att kartlägga den är ett av de mest kraftfulla verktygen i konverteringsoptimering, eftersom det visar var du tappar folk och varför. Den här guiden går igenom hur du ... Läs mer",
+"published_at": "2026-07-17 19:49:38"
+},
+{
+"link": "https://www.conv.se/checkout-optimering/",
+"domain": "conv.se",
+"title": "Checkout-optimering: minska avhoppen i kassan",
+"summary": "Foto: Kaboompics via Pexels Kassan, eller checkout, är det sista steget innan ett köp blir av, och det är också där flest kunder försvinner. Enligt Baymard Institutes sammanställning av ett femtiotal studier ligger det genomsnittliga andelen övergivna varukorgar kring 70 procent. Varje procentenhet du vinner tillbaka här går rakt ner på sista raden, eftersom besökarna ... Läs mer",
+"published_at": "2026-07-17 19:49:33"
+},
+{
+"link": "https://www.conv.se/landningssida/",
+"domain": "conv.se",
+"title": "Landningssida som konverterar: så bygger du den",
+"summary": "Foto: Yan Krukau via Pexels En landningssida är en sida byggd för ett enda syfte: att få besökaren att göra en specifik sak. Ofta är det den sida en annons eller ett nyhetsbrev leder till, och den avgör om trafiken du betalat för förvandlas till kunder eller studsar tillbaka. Den här guiden går igenom vad ... Läs mer",
+"published_at": "2026-07-17 19:49:28"
+},
+{
+"link": "https://www.conv.se/konverteringsgrad/",
+"domain": "conv.se",
+"title": "Konverteringsgrad: så räknar du ut och höjer den",
+"summary": "Foto: Nicholas Cappello via Unsplash Konverteringsgrad är det mått som visar hur väl din webbplats förvandlar besökare till kunder. Det är den enskilt viktigaste siffran i konverteringsoptimering, och också den som oftast tolkas fel. Här går vi igenom hur du räknar ut den, vad som räknas som en bra nivå och hur du höjer den. ... Läs mer",
+"published_at": "2026-07-17 19:49:23"
+},
+{
+"link": "https://www.conv.se/konverteringsoptimering/",
+"domain": "conv.se",
+"title": "Konverteringsoptimering: så får du fler att köpa",
+"summary": "Foto: Deng Xiang via Unsplash Konverteringsoptimering, ofta förkortat med den engelska termen conversion rate optimization, handlar om att få en större andel av dina besökare att göra det du vill: köpa, registrera sig eller höra av sig. I stället för att jaga mer trafik får du mer värde ur den trafik du redan har. Den ... Läs mer",
+"published_at": "2026-07-17 19:49:18"
+},
+{
+"link": "https://www.conv.se/ab-testning/",
+"domain": "conv.se",
+"title": "A/B-testning: så gör du tester som ger säkra svar",
+"summary": "Foto: Luke Chesser via Unsplash A/B-test är den vanligaste metoden för att förbättra en webbplats med data i stället för tyckande. Du visar en version av en sida för en del av besökarna och en annan version för resten, och låter beteendet avgöra vilken som fungerar bäst. Den här guiden går igenom hur ett A/B-test ... Läs mer",
+"published_at": "2026-07-17 19:49:13"
+},
+{
+"link": "https://www.haxette.se/ai-verktyg-hittade-root-bugg-som-legat-dold-i-linux-karnan-i-15-ar/",
+"domain": "haxette.se",
+"title": "AI-verktyg hittade root-bugg som legat dold i Linux-kärnan i 15 år",
+"summary": "Ett AI-drivet analysverktyg har hittat en allvarlig sårbarhet i Linux-kärnan som legat oupptäckt i omkring 15 år. Buggen, som fått namnet GhostLock och beteckningen CVE-2026-43499, gör att vilken inloggad användare som helst kan ta full kontroll (root) över en opatchad dator, utan särskilda rättigheter eller nätverksåtkomst. Sårbarheten upptäcktes av säkerhetsföretaget Nebula Security med hjälp av ... Läs mer",
+"published_at": "2026-07-17 19:38:30"
+},
+{
+"link": "https://www.automagiska.se/inkling-en-oppen-ai-modell-byggd-for-agenter-verktyg-och-egna-arbetsfloden/",
+"domain": "automagiska.se",
+"title": "Inkling: en öppen AI-modell byggd för agenter, verktyg och egna arbetsflöden",
+"summary": "Den 15 juli 2026 släppte Thinking Machines Lab sin första egna AI-modell, Inkling, med öppna vikter. Det som gör den intressant för den som bygger automation är inte storleken, utan att modellen är gjord för att agera: skriva och köra kod, använda verktyg, styra en webbläsare och till och med finjustera sig själv för en ... Läs mer",
+"published_at": "2026-07-17 19:38:21"
+},
+{
+"link": "https://www.textmaskinen.se/token-priser-ai-halla-nere-kostnaden/",
+"domain": "textmaskinen.se",
+"title": "Så fungerar token-priser för AI, och så håller du nere kostnaden",
+"summary": "Token-baserad prissättning gör AI-verktyg billiga att börja med men dyra att skala. Så fungerar tokens, därför växer notan, och så optimerar småföretag prompter och arbetsflöden.",
+"published_at": "2026-07-17 10:27:52"
+},
+{
+"link": "https://www.heatmap.se/hotjar-clarity-gdpr/",
+"domain": "heatmap.se",
+"title": "Är Hotjar och Microsoft Clarity GDPR-förenliga? Så gör du heatmaps lagligt",
+"summary": "Heatmaps och sessionsinspelningar visar exakt hur besökare rör sig på en sajt, var de klickar och var de tvekar. Det är kraftfulla verktyg, men de samlar också in data om verkliga personer. Därför landar frågan snabbt i dataskydd. Kan man använda Hotjar och Microsoft Clarity och samtidigt följa GDPR? Kort svar: ja, men bara om ... Läs mer",
+"published_at": "2026-07-17 09:53:47"
+},
+{
+"link": "https://www.heatmap.se/klickkarta-scrollkarta-rorelsekarta/",
+"domain": "heatmap.se",
+"title": "Klickkarta, scrollkarta och rörelsekarta: så läser du en heatmap",
+"summary": "En heatmap, eller värmekarta, är ett av de mest lättlästa sätten att förstå hur besökare beter sig på en webbsida. I stället för långa tabeller med siffror lägger den ett färgat lager ovanpå själva sidan, där varma färger visar var aktiviteten är hög och kalla färger var den är låg. Du ser alltså med blotta ... Läs mer",
+"published_at": "2026-07-17 09:52:59"
+},
+{
+"link": "https://www.heatmap.se/vad-ar-webbanalys/",
+"domain": "heatmap.se",
+"title": "Vad är webbanalys? Så mäter du och förbättrar din webbplats",
+"summary": "Din webbplats samlar hela tiden in spår efter varje besökare. Vilka sidor de öppnar, hur länge de stannar och var de lämnar. Webbanalys handlar om att fånga upp dessa spår, förvandla dem till siffror och beteendemönster och sedan använda insikterna för att göra sajten bättre. Den här guiden går igenom vad webbanalys är, vilka mått ... Läs mer",
+"published_at": "2026-07-17 09:52:45"
+},
+{
+"link": "https://www.heatmap.se/vad-ar-datavisualisering/",
+"domain": "heatmap.se",
+"title": "Vad är datavisualisering? Guide och verktyg för nybörjare",
+"summary": "Datavisualisering handlar om att göra siffror begripliga. I stället för att stirra på en tabell med hundratals rader får du ett diagram som visar mönstret på en gång. Den här guiden förklarar vad datavisualisering är, varför det hjälper, vilka diagramtyper du möter oftast och vilka verktyg du kan börja med som nybörjare. Vad menas med ... Läs mer",
+"published_at": "2026-07-17 09:52:25"
+},
+{
+"link": "https://www.heatmap.se/vad-ar-konverteringsoptimering/",
+"domain": "heatmap.se",
+"title": "Vad är konverteringsoptimering (CRO)? Nybörjarguide",
+"summary": "Konverteringsoptimering, ofta förkortat CRO efter engelskans conversion rate optimization, handlar om att få fler av besökarna du redan har att göra det du vill att de ska göra. I stället för att jaga mer trafik finslipar du sidan så att en större andel av dagens besökare köper, bokar eller hör av sig. Den här guiden ... Läs mer",
+"published_at": "2026-07-17 09:52:05"
+},
+{
+"link": "https://www.heatmap.se/hotjar-vs-microsoft-clarity/",
+"domain": "heatmap.se",
+"title": "Hotjar vs Microsoft Clarity: vilket verktyg ska du välja?",
+"summary": "Vill du förstå hur besökarna faktiskt beter sig på din sajt, var de klickar, hur långt de scrollar och var de tappar tråden, landar du snabbt hos två namn: Hotjar och Microsoft Clarity. Båda är beteendeanalysverktyg som ritar upp värmekartor och spelar in sessioner, men de skiljer sig åt på ett sätt som avgör vilket ... Läs mer",
+"published_at": "2026-07-17 09:51:26"
+},
+{
+"link": "https://www.iphone24.se/nar-kommer-nasta-iphone/",
+"domain": "iphone24.se",
+"title": "När kommer nästa iPhone? Apples releasemönster och vad vi vet om iPhone 18",
+"summary": "Nästa ordinarie iPhone-lansering väntas i september 2026. I juli 2026 har Apple inte bekräftat något datum, men mönstret är ovanligt stabilt: sedan 2012 har företaget visat årets huvudmodeller i september varje år utom pandemiåret 2020. Presentationen sker i regel en tisdag eller onsdag i månadens andra vecka, förhandsbokningen öppnar fredagen samma vecka och telefonerna når ... Läs mer",
+"published_at": "2026-07-17 08:48:00"
 }
 ]
