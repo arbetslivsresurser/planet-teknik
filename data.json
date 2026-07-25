@@ -565,5 +565,12 @@
 "title": "Vibe-kodning: så bygger AI appar utan att du kan programmera",
 "summary": "Vibe-kodning gör att fler kan bygga appar genom att bara beskriva vad de vill ha till en AI. Vad betyder det för no-code-rörelsen, och vilka fallgropar bör småföretagare känna till när appbutiken svämmar över.",
 "published_at": "2026-07-22 10:00:00"
+},
+{
+"link": "https://www.haxette.se/google-gemini-3-5-flash-lite-i-sokmotorn/",
+"domain": "haxette.se",
+"title": "Google rullar ut Gemini 3.5 Flash-Lite i sökmotorn",
+"summary": "Google har börjat rulla ut en ny AI-modell i sin sökmotor. Gemini 3.5 Flash-Lite är, enligt Googles egen bloggpost, bolagets snabbaste och mest kostnadseffektiva modell i 3.5-serien, byggd för uppgifter som kräver hög genomströmning och låg fördröjning. Sök är en av de platser där den nu landar. Tre nya modeller på en gång Den 21 ... Läs mer",
+"published_at": "2026-07-23 15:00:00"
 }
 ]
