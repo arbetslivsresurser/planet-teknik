@@ -712,5 +712,12 @@
 "title": "Poddvärdar jämförda: var ska du publicera din podcast",
 "summary": "Fyra poddvärdar, fyra prislistor, och ändå är månadskostnaden det minst intressanta i jämförelsen. Acast, Spotify for Creators, Buzzsprout och Podbean säljer inte samma vara. Två av dem tar betalt för hur många timmar ljud du laddar upp, en tar betalt för funktioner och låter dig ladda upp obegränsat, och en tar inte betalt alls men ... Läs mer",
 "published_at": "2026-08-04 11:20:00"
+},
+{
+"link": "https://www.conv.se/vwo-vs-ab-tasty/",
+"domain": "conv.se",
+"title": "VWO vs AB Tasty: två sätt att köra A/B-test i praktiken",
+"summary": "VWO och AB Tasty erbjuder samma testtyper men räknar fram resultatet på olika sätt. Genomgång av statistikmotor, rapportfält, prissättning och datalagring, hämtad ur leverantörernas egen dokumentation.",
+"published_at": "2026-08-06 05:35:00"
 }
 ]
