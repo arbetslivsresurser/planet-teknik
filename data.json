@@ -733,5 +733,19 @@
 "title": "Så ser du om en text är skriven av AI, och var AI-detektorers gräns går",
 "summary": "Det finns inget säkert sätt att avgöra om en text är skriven av AI, varken för en läsare eller för de detektorverktyg som säljs för ändamålet. Verktygen mäter statistiska mönster i språket, framför allt hur förutsägbart varje ord är, och lämnar ett sannolikhetsvärde, inte ett facit. Här går vi igenom hur måtten perplexitet och burstiness ... Läs mer",
 "published_at": "2026-08-08 06:10:00"
+},
+{
+"link": "https://www.laddtider.se/tredjepartsskript-tar-over-svarstiden/",
+"domain": "laddtider.se",
+"title": "Startsidan snabbar upp, undersidan bromsar: tredjepartsskripten tar över svarstiden",
+"summary": "Foto: Luke Chesser via Unsplash Andelen sajter som klarar Googles krav på interaktionsrespons vid mätning på mobil steg under 2025, från 74 till 77 procent. Bakom det förbättrade snittet döljer sig dock en förskjutning. Startsidorna blev snabbare medan undersidorna blev långsammare. Enligt HTTP Archive Web Almanac 2025 hade 80 procent av de mobila startsidorna ett ... Läs mer",
+"published_at": "2026-08-11 11:48:55"
+},
+{
+"link": "https://www.wav.se/nar-racker-inte-gratisprogrammet/",
+"domain": "wav.se",
+"title": "När räcker inte gratisprogrammet? Betalda DAW:er och AI-brusreducering",
+"summary": "Gratisprogrammen räcker längre än de flesta tror, och frågan är sällan vilket program som är bäst. Frågan är var din egen gräns går. Vår guide om gratis program för att spela in och redigera ljud går igenom Audacity, Ocenaudio och GarageBand, och för podd och röst tar de tre dig genom hela arbetsflödet. Den här ... Läs mer",
+"published_at": "2026-08-11 05:55:00"
 }
 ]
