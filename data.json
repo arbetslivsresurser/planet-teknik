@@ -768,5 +768,12 @@
 "title": "Jasper AI på svenska: vad du får utöver ett chattverktyg",
 "summary": "Du har redan testat ChatGPT, och det skriver hyfsad svenska. Frågan som avgör om Jasper är värt en egen licens är en annan: vad händer när fem personer ska skriva i samma ton, i samma kanaler, vecka efter vecka. Jasper är byggt för det problemet och hanterar svenska. Men verktyget fungerar inte längre som äldre ... Läs mer",
 "published_at": "2026-08-15 09:20:00"
+},
+{
+"link": "https://www.2005.se/elektron-overbridge-explained/",
+"domain": "2005.se",
+"title": "Elektron Overbridge explained: what it does and which boxes support it",
+"summary": "Photo: Systemtechniker, CC BY-SA 4.0, via Wikimedia Commons Ask what Overbridge is on a forum and you get ten answers, most of them about machines you do not own. The short version: Overbridge is free software from Elektron that carries multichannel audio and full parameter control between a supported Elektron machine and your computer, down ... Read more",
+"published_at": "2026-08-17 21:34:07"
 }
 ]
