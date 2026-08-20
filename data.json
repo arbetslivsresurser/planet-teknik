@@ -775,5 +775,19 @@
 "title": "Elektron Overbridge explained: what it does and which boxes support it",
 "summary": "Photo: Systemtechniker, CC BY-SA 4.0, via Wikimedia Commons Ask what Overbridge is on a forum and you get ten answers, most of them about machines you do not own. The short version: Overbridge is free software from Elektron that carries multichannel audio and full parameter control between a supported Elektron machine and your computer, down ... Read more",
 "published_at": "2026-08-17 21:34:07"
+},
+{
+"link": "https://www.automagiska.se/zapier-make-n8n-raknar-samma-flode-olika/",
+"domain": "automagiska.se",
+"title": "Zapier, Make och n8n räknar samma flöde på tre olika sätt",
+"summary": "Zapier räknar uppgifter, Make räknar operationer och n8n räknar körningar. Samma flöde med tio formulärsvar blir 40 uppgifter, 41 operationer eller en enda körning.",
+"published_at": "2026-08-19 07:28:05"
+},
+{
+"link": "https://www.heatmap.se/hur-manga-sessioner-heatmap/",
+"domain": "heatmap.se",
+"title": "Hur många sessioner behöver en heatmap innan den betyder något?",
+"summary": "Verktyget är uppsatt, sidan har samlat ett par hundra sessioner och kartan visar redan ett mönster som ser ut att betyda något. Frågan är om mönstret kommer från besökarna eller från slumpen. Svaret hänger på vilken karta du tittar på: en scrollkarta går att läsa långt tidigare än en klickkarta, och en rörelsekarta ser färdig ... Läs mer",
+"published_at": "2026-08-19 07:26:42"
 }
 ]
