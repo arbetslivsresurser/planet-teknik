@@ -789,5 +789,12 @@
 "title": "Hur många sessioner behöver en heatmap innan den betyder något?",
 "summary": "Verktyget är uppsatt, sidan har samlat ett par hundra sessioner och kartan visar redan ett mönster som ser ut att betyda något. Frågan är om mönstret kommer från besökarna eller från slumpen. Svaret hänger på vilken karta du tittar på: en scrollkarta går att läsa långt tidigare än en klickkarta, och en rörelsekarta ser färdig ... Läs mer",
 "published_at": "2026-08-19 07:26:42"
+},
+{
+"link": "https://www.wav.se/tradlos-mikrofon/",
+"domain": "wav.se",
+"title": "Trådlös mikrofon: vad som skiljer systemen och när du behöver tillstånd",
+"summary": "Du har tröttnat på att snubbla på kabeln, och sedan börjar produktbladen tala om megahertz. Det som avgör mest när du väljer är inte räckvidden utan vilket frekvensband systemet sänder i, för i Sverige är bara vissa band fria att använda. Det klassiska UHF-utrymmet mellan 470 och 694 MHz kräver tillstånd från Post- och telestyrelsen, ... Läs mer",
+"published_at": "2026-08-20 09:05:00"
 }
 ]
