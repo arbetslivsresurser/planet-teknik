@@ -824,5 +824,12 @@
 "title": "LUFS och ljudnivå: därför sänker streamingtjänsten din låt, och hur du mixar för det",
 "summary": "Du exporterar ett färdigt spår, lägger det i spellistan bredvid andra och hör direkt att ditt låter tunnare och svagare än de andra. Frestelsen är att skruva upp och limita hårdare. På en tjänst som normaliserar ljudnivån ger det ingenting: en högre master vrids bara ner igen vid uppspelning, medan dynamiken du limitade bort är ... Läs mer",
 "published_at": "2026-08-27 07:30:00"
+},
+{
+"link": "https://www.wav.se/spela-in-ljud-android/",
+"domain": "wav.se",
+"title": "Spela in ljud på Android när USB-mikrofonen är tyst",
+"summary": "En USB-mikrofon som fungerar direkt i en dator kan vara helt tyst i en Android-telefon. Android stöder bara en snävt avgränsad delmängd av USB-ljudklassen, och telefontillverkaren bestämmer själv om porten över huvud taget ska kunna vara värd för en ansluten enhet. Mikrofonen kan vara klasskompatibel och ändå ligga utanför det telefonen accepterar, men med kabeln, ... Läs mer",
+"published_at": "2026-09-24 23:35:00"
 }
 ]
