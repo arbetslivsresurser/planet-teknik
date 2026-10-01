@@ -831,5 +831,19 @@
 "title": "Spela in ljud på Android när USB-mikrofonen är tyst",
 "summary": "En USB-mikrofon som fungerar direkt i en dator kan vara helt tyst i en Android-telefon. Android stöder bara en snävt avgränsad delmängd av USB-ljudklassen, och telefontillverkaren bestämmer själv om porten över huvud taget ska kunna vara värd för en ansluten enhet. Mikrofonen kan vara klasskompatibel och ändå ligga utanför det telefonen accepterar, men med kabeln, ... Läs mer",
 "published_at": "2026-09-24 23:35:00"
+},
+{
+"link": "https://www.heatmap.se/microsoft-clarity-kom-igang/",
+"domain": "heatmap.se",
+"title": "Installera Microsoft Clarity och koppla samtycket direkt",
+"summary": "Microsoft Clarity kostar ingenting och har inget tak för hur mycket trafik som mäts. Koden kommer in på sajten med ett tillägg i WordPress, en app i Shopify eller en kodrad i sidornas . För att siffrorna ska bli användbara behöver du också koppla samtyckesrutan till Clarity. Sedan den 31 oktober 2025 kräver Clarity en ... Läs mer",
+"published_at": "2026-09-30 18:45:00"
+},
+{
+"link": "https://www.mailer.se/oppningsfrekvens-nyhetsbrev/",
+"domain": "mailer.se",
+"title": "Går det att lita på öppningsfrekvensen i ditt nyhetsbrev?",
+"summary": "Foto: Brett Jordan via Unsplash Öppningsfrekvensen går inte att lita på som mått på hur många som läser nyhetsbrevet. Den kan visa öppningar som aldrig ägt rum. Klicken går att lita på i större utsträckning än öppningarna, men inte heller de är helt fria från maskinell aktivitet. Ser du en hög öppningsfrekvens men få klick ... Läs mer",
+"published_at": "2026-09-30 15:50:00"
 }
 ]
