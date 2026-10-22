@@ -901,5 +901,19 @@
 "title": "Ladda elbil gratis på jobbet, på resan avgör betalsättet",
 "summary": "Bankkortet räcker vid snabbladdare som byggts sedan april 2024, men operatörens egen app eller ett abonnemang ger ofta ett lägre pris. Vid samma laddare kan priset skilja nästan 3,50 kronor per kilowattimme beroende på hur du betalar. Gratis laddning som du kan räkna med finns hos arbetsgivaren, om den erbjuder laddning. Var kan man ladda ... Läs mer",
 "published_at": "2026-10-16 14:45:00"
+},
+{
+"link": "https://www.laddtider.se/google-fonts-eller-egna-typsnitt/",
+"domain": "laddtider.se",
+"title": "Egna typsnitt kan slå Google Fonts, men inte av sig själva",
+"summary": "Att flytta typsnitten från Google Fonts till den egna servern sparar uppkopplingar mot Googles servrar, men det gör inte sajten snabbare av sig självt. Egna filer blir snabbare först när servern, filformatet och laddningen är på plats. Det gamla argumentet för Google Fonts, att besökaren redan har filen i webbläsarens cache från en annan sajt, ... Läs mer",
+"published_at": "2026-10-21 12:17:00"
+},
+{
+"link": "https://www.909.se/what-is-a-drum-break/",
+"domain": "909.se",
+"title": "What is a drum break? The famous breaks producers still chop",
+"summary": "About a minute and a half into “Amen, Brother”, a 1969 B-side by the Washington, D.C., soul band the Winstons, the rest of the band falls silent. For four bars, roughly six seconds, only Gregory Coleman’s drums are left. That passage is a drum break. It has been looped, sped up and cut apart in ... Read more",
+"published_at": "2026-10-21 11:58:00"
 }
 ]
