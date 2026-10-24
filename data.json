@@ -929,5 +929,19 @@
 "title": "Så dämpar du ficklampan på Iphone och tänder den snabbare",
 "summary": "Ficklampan på Iphone lyser starkt, och i ett mörkt sovrum eller på en kvällspromenad bländar den lätt mer än den hjälper. Ljuset går att dämpa: håll in ficklampsknappen i Kontrollcenter och dra reglaget nedåt. Snabbare än via Kontrollcenter tänds lampan med knappen på låsskärmen, med snabbknappen på nyare modeller eller med Siri. Så dämpar du ... Läs mer",
 "published_at": "2026-10-22 08:40:00"
+},
+{
+"link": "https://www.automagiska.se/n8n-workflow-forsta-arbetsflode/",
+"domain": "automagiska.se",
+"title": "Bygg ditt första n8n workflow från formulär till kalkylark",
+"summary": "Ett nytt arbetsflöde i n8n öppnas med en tom arbetsyta och knappen Add first step. Ett första flöde börjar med noden n8n Form Trigger: någon fyller i ett formulär, svaret hamnar som en ny rad i ett Google-kalkylark och personen får ett bekräftelsemejl. Det är en förenklad del av flödet i jämförelsen av hur Zapier, ... Läs mer",
+"published_at": "2026-10-23 21:05:00"
+},
+{
+"link": "https://www.playbook.se/affarsplan-exempel/",
+"domain": "playbook.se",
+"title": "Affärsplan exempel: tre företag fyller i alla sju delar",
+"summary": "En frilansande UX-designer, en liten e-handel med barnkläder och en cykelverkstad med lokal och en anställd. Tre påhittade företag har varsin ifylld affärsplan, del för del, efter samma sju rubriker som Almis mall. Varje plan har dessutom ett fel i budgeten, och rättelsen visar hur det räknas rätt. Företagen, personerna och alla belopp i exemplen ... Läs mer",
+"published_at": "2026-10-22 11:05:00"
 }
 ]
