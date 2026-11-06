@@ -1069,5 +1069,12 @@
 "title": "Så lägger du in DMARC, DKIM och SPF för ditt nyhetsbrev",
 "summary": "Foto: Stephen Phillips, Hostreviews.co.uk, via Unsplash Gmail, Yahoo och Outlook kräver i dag att domäner som skickar mycket e-post kan bevisa att utskicket är äkta, och Gmail och Yahoo ställer ett enklare krav på alla avsändare. Beviset är tre poster i domänens DNS: SPF, DKIM och DMARC. Saknas de hamnar ett nyhetsbrev från din egen ... Läs mer",
 "published_at": "2026-11-04 00:11:00"
+},
+{
+"link": "https://www.iphone24.se/vilken-iphone-har-bast-batteri/",
+"domain": "iphone24.se",
+"title": "Vilken Iphone har bäst batteri? Modellerna jämförda",
+"summary": "Vill du ha den Iphone som räcker längst i normal användning är svaret Iphone 18 Pro Max. Den klarar upp till 29 timmars normal användning, 6 timmar mer än Iphone 18 Pro och 5 timmar mer än den vikbara Iphone Duo. Bland de billigare modellerna räcker Iphone 17 längst, med upp till 30 timmars videouppspelning ... Läs mer",
+"published_at": "2026-11-05 18:30:00"
 }
 ]
