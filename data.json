@@ -1160,5 +1160,12 @@
 "title": "A mixer for synths pays off at the third box",
 "summary": "With two boxes you may not need a mixer at all, because the groovebox in the middle of the rig often has a stereo line input of its own. With three boxes on their own channels, a mixer for synths needs two stereo channels and one mono channel for a synth with a single output. ... Read more",
 "published_at": "2026-11-10 13:20:00"
+},
+{
+"link": "https://www.textmaskinen.se/prompt/",
+"domain": "textmaskinen.se",
+"title": "En prompt är din instruktion till AI:n, och prompta är nyord",
+"summary": "En prompt är texten du skriver till en AI-tjänst för att få något tillbaka: en fråga, en instruktion eller ett underlag att arbeta med. Skriver du ”sammanfatta mötesanteckningarna i fem punkter” i ett chattfönster är det din prompt. Att prompta är att skriva en sådan instruktion, och verbet kom med på Språkrådets nyordslista 2023 med ... Läs mer",
+"published_at": "2026-11-11 13:20:00"
 }
 ]
