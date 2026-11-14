@@ -1167,5 +1167,40 @@
 "title": "En prompt är din instruktion till AI:n, och prompta är nyord",
 "summary": "En prompt är texten du skriver till en AI-tjänst för att få något tillbaka: en fråga, en instruktion eller ett underlag att arbeta med. Skriver du ”sammanfatta mötesanteckningarna i fem punkter” i ett chattfönster är det din prompt. Att prompta är att skriva en sådan instruktion, och verbet kom med på Språkrådets nyordslista 2023 med ... Läs mer",
 "published_at": "2026-11-11 13:20:00"
+},
+{
+"link": "https://www.iphone24.se/apple-sports-allsvenskan/",
+"domain": "iphone24.se",
+"title": "Nu kan du följa Allsvenskan i Apple Sports",
+"summary": "Apples gratisapp Apple Sports visar nu resultat, tabell och statistik från Allsvenskan. Stödet kom med version 4.6, som släpptes den 12 november, och når svenska fotbollsfans när två omgångar återstår av säsongen. I samma uppdatering tillkommer kinesiska Super League och ryska Premier League. Apple lägger dessutom till kampsportsorganisationen UFC. Där visar appen hela matchkortet för ... Läs mer",
+"published_at": "2026-11-13 19:59:30"
+},
+{
+"link": "https://www.herrur.se/tissot-prx/",
+"domain": "herrur.se",
+"title": "Tissot PRX med Powermatic 80 går upp till 80 timmar i lådan",
+"summary": "Tissot PRX är en platt stålklocka där armbandet växer direkt ur boetten, utan de vanliga fästena för armband. Kvartsversionen och automatversionen ser nästan likadana ut på handleden, och skillnaden sitter i verket. Automatversionen drivs av Powermatic 80, ett verk som enligt Tissot går i upp till 80 timmar på en full uppdragning. Det räcker från ... Läs mer",
+"published_at": "2026-11-13 19:22:00"
+},
+{
+"link": "https://www.bigserpenergy.com/faceted-navigation-seo/",
+"domain": "bigserpenergy.com",
+"title": "Faceted navigation SEO: block unneeded filters in robots.txt",
+"summary": "When Googlebot spends most of its requests on filter and sort URLs, block those URLs in robots.txt unless you need some of them in search results. Google’s documentation on faceted navigation lists robots.txt and URL fragments as the ways to prevent crawling, and calls rel=\"canonical\" and rel=\"nofollow\" “generally less effective in the long term”. Decide […]",
+"published_at": "2026-11-13 19:19:00"
+},
+{
+"link": "https://www.iphone24.se/apple-watch-bada/",
+"domain": "iphone24.se",
+"title": "Kan man bada med Apple Watch? Så mycket vatten tål klockan",
+"summary": "Ja, du kan bada med Apple Watch i pool, sjö och hav om du har Series 2 eller senare, någon av SE-modellerna eller en Ultra.",
+"published_at": "2026-11-13 10:46:23"
+},
+{
+"link": "https://www.laddtider.se/vad-ar-cloudflare/",
+"domain": "laddtider.se",
+"title": "Vad är Cloudflare, och blir sajten snabbare av gratisplanen?",
+"summary": "Cloudflare är ett nätverk av servrar som ställer sig mellan besökaren och sajtens egen server. Gratisplanen sparar kopior av bilder, stilmallar, skript och typsnitt i nätverket, men själva WordPress-sidan hämtas fortfarande från den egna servern vid varje besök. Ska även sidan ligga i Cloudflares cacheminne krävs en egen cacheregel eller tillägget APO, som kostar 5 ... Läs mer",
+"published_at": "2026-11-12 00:10:00"
 }
 ]
