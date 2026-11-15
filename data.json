@@ -1202,5 +1202,19 @@
 "title": "Vad är Cloudflare, och blir sajten snabbare av gratisplanen?",
 "summary": "Cloudflare är ett nätverk av servrar som ställer sig mellan besökaren och sajtens egen server. Gratisplanen sparar kopior av bilder, stilmallar, skript och typsnitt i nätverket, men själva WordPress-sidan hämtas fortfarande från den egna servern vid varje besök. Ska även sidan ligga i Cloudflares cacheminne krävs en egen cacheregel eller tillägget APO, som kostar 5 ... Läs mer",
 "published_at": "2026-11-12 00:10:00"
+},
+{
+"link": "https://www.heatmap.se/anvandartest/",
+"domain": "heatmap.se",
+"title": "Användartest med fem personer visar varför besökare fastnar",
+"summary": "Fem personer ur målgruppen räcker för ett användartest. Var och en får en konkret uppgift på din sajt, tänker högt medan hon löser den, och du tittar och håller tyst. Klickkartan och sessionsinspelningarna visar var besökarna fastnar. Testet visar varför, eftersom du hör vad personen trodde skulle hända när hon klickade. Klickkartan visar var, testet ... Läs mer",
+"published_at": "2026-11-14 16:50:00"
+},
+{
+"link": "https://www.iphone24.se/skarmskydd-iphone-17/",
+"domain": "iphone24.se",
+"title": "Behöver Iphone 17 skärmskydd? Så mycket tål Ceramic Shield",
+"summary": "Du har just köpt en Iphone 17 Pro, och i kassan lägger säljaren fram ett härdat glas.",
+"published_at": "2026-11-14 14:50:16"
 }
 ]
