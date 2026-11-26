@@ -1335,5 +1335,19 @@
 "title": "What is a sampler? It plays back any sound you record",
 "summary": "A sampler is an instrument that records a sound, stores it as digital audio and plays it back when you press a pad or a key. The sound can be anything that reaches its input: a single snare hit, a spoken word, one note on a piano or four bars of drums from a funk ... Read more",
 "published_at": "2026-11-23 05:30:00"
+},
+{
+"link": "https://www.2005.se/midi-thru/",
+"domain": "2005.se",
+"title": "How MIDI thru chains your synths, and when it stops working",
+"summary": "Yes, you can daisy-chain the machines on a small desk through their THRU ports, as long as one machine does all the sending. A THRU jack passes on an exact copy of whatever arrives at that machine's MIDI IN, and nothing else. That is why a THRU chain cannot carry the keyboard and the groovebox's ... Read more",
+"published_at": "2026-11-24 06:40:00"
+},
+{
+"link": "https://www.videoproduktion.se/far-man-filma-polisen/",
+"domain": "videoproduktion.se",
+"title": "Får man filma polisen? Ja, om du inte hindrar arbetet",
+"summary": "Ja, du får filma polisen på allmän plats, även under ett gripande. En polis får hindra dig om du på något konkret sätt hindrar arbetet, utgör en säkerhetsrisk eller stör ordningen. Finns inget sådant skäl har polisen ingen grund att kräva att du slutar filma, och en uppmaning att sluta får inte framföras så att ... Läs mer",
+"published_at": "2026-11-24 04:10:00"
 }
 ]
