@@ -1349,5 +1349,26 @@
 "title": "Får man filma polisen? Ja, om du inte hindrar arbetet",
 "summary": "Ja, du får filma polisen på allmän plats, även under ett gripande. En polis får hindra dig om du på något konkret sätt hindrar arbetet, utgör en säkerhetsrisk eller stör ordningen. Finns inget sådant skäl har polisen ingen grund att kräva att du slutar filma, och en uppmaning att sluta får inte framföras så att ... Läs mer",
 "published_at": "2026-11-24 04:10:00"
+},
+{
+"link": "https://www.iphone24.se/skarminspelning-iphone-med-ljud/",
+"domain": "iphone24.se",
+"title": "Så gör du en skärminspelning på Iphone med ljud",
+"summary": "Du har spelat in skärmen för att visa någon hur en app fungerar, men när du spelar upp videon hörs ingenting av det du sa.",
+"published_at": "2026-11-26 16:24:59"
+},
+{
+"link": "https://www.laddtider.se/http3/",
+"domain": "laddtider.se",
+"title": "Blir sajten snabbare med HTTP/3? Så ser du om du har det",
+"summary": "HTTP/3 gör att besökarens webbläsare kommer igång snabbare med din sajt och klarar paketförlust bättre, eftersom protokollet går över QUIC i stället för TCP. Vinsten är störst för besökare långt från servern, på nät med paketförlust och när besökaren byter nät. För den som sitter nära servern på fast uppkoppling blir skillnaden liten. Om sajten ... Läs mer",
+"published_at": "2026-11-26 12:29:00"
+},
+{
+"link": "https://www.automagiska.se/vad-ar-rpa/",
+"domain": "automagiska.se",
+"title": "Vad är RPA? En mjukvarurobot som klickar i programmen åt dig",
+"summary": "En leverantörsfaktura kommer in som PDF. Ekonomiassistenten öppnar den, kopierar leverantörens namn, fakturanummer, belopp och förfallodag, klickar sig fram till rätt bild i ekonomisystemet, klistrar in uppgifterna fält för fält och trycker på Spara. RPA, robotic process automation, är ett program som upprepar samma klick och knapptryckningar åt användaren, i samma ordning, och som kan ... Läs mer",
+"published_at": "2026-11-26 08:15:00"
 }
 ]
