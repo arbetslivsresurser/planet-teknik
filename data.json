@@ -1370,5 +1370,12 @@
 "title": "Vad är RPA? En mjukvarurobot som klickar i programmen åt dig",
 "summary": "En leverantörsfaktura kommer in som PDF. Ekonomiassistenten öppnar den, kopierar leverantörens namn, fakturanummer, belopp och förfallodag, klickar sig fram till rätt bild i ekonomisystemet, klistrar in uppgifterna fält för fält och trycker på Spara. RPA, robotic process automation, är ett program som upprepar samma klick och knapptryckningar åt användaren, i samma ordning, och som kan ... Läs mer",
 "published_at": "2026-11-26 08:15:00"
+},
+{
+"link": "https://www.laddtider.se/webbhotell-bast-i-test/",
+"domain": "laddtider.se",
+"title": "Webbhotell bäst i test? Mät din sajt innan du byter",
+"summary": "Laddar din WordPress-sajt långsamt är det inte säkert att webbhotellet är orsaken. Mät först hur snabbt servern svarar. Svarar den snabbt sitter problemet i sajten, och då ger det mer att åtgärda sajten än att byta webbhotell. Ändå skiljer sig webbhotellen åt när man mäter riktiga besök i webbläsaren Chrome. Hos fyra webbhotell inriktade på ... Läs mer",
+"published_at": "2026-11-26 13:50:00"
 }
 ]
